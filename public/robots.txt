@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+creating app:-                  (npx create-react-app weather-app)
+starting app:-                  (cd weather-app) -> (npm start)
+installing library for icons:-  (npm i -save react feather)
+installing library for date :-  (npm i -save dateformat)
